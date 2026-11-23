@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+# large dataset and trained model are not committed
+data/Sarcasm_Headlines_Dataset*.json
+models/*.joblib
